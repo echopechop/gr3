@@ -82,3 +82,7 @@ header {
 }
 
 
+.gold {
+    border: 3px solid gold;
+    box-shadow: 0 0 20px gold;
+}
