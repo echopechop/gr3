@@ -43,7 +43,7 @@ header {
 }
 
 
-.card-gold {  background: linear-gradient(145deg, #ffd700, #b8860b);}
+.card-gold { border-color: #ffd700;}
 .card-purple { border-color: #a020f0; }
 .card-blue { border-color: #00ced1; }
 
@@ -80,4 +80,5 @@ header {
     color: #888;
 
 }
+
 
