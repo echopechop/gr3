@@ -27,7 +27,7 @@ header {
     padding: 15px;
     text-align: center;
     transition: transform 0.3s;
-    border-bottom: 5px solid transparent;
+    background: linear-gradient(145deg, #ffd700, #b8860b);
 }
 
 .card:hover {
@@ -78,4 +78,5 @@ header {
     font-size: 50px;
     font-weight: bold;
     color: #888;
+
 }
